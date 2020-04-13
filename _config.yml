@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hector Huarancca /"
+title                    : "Hector Huarancca"
 title_separator          : "-"
 name                     : &name "Hector"
 description              : &description "Data Science Enthusiast"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Hector Huarancca"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "MS Data Science Candidate"
   location         : "Lima, Peru"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "Everis Peru"
+  pubmed           :
+  googlescholar    :
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
